@@ -6,6 +6,10 @@ body{
     color: white;
 }
 
+p{
+    font-size: 25px;
+}
+
 h1{
     font-family: "Caesar Dressing", system-ui;
     text-align: center;
